@@ -1,2 +1,2 @@
-# eugenecib.github.io
+# EugeneCib
 Leenlake bands home page
